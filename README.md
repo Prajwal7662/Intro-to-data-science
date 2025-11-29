@@ -90,15 +90,21 @@ Dimensionality Reduction: PCA
 
 7. Model Evaluation
 
-Check accuracy using:
-
-Accuracy, Precision, Recall
-
-F1-score
-
-Confusion matrix
-
-RMSE, MAE (for regression)
+Business Problem
+      ↓
+Collect Data
+      ↓
+Clean Data
+      ↓
+EDA & Visualization
+      ↓
+Feature Engineering
+      ↓
+Model Training
+      ↓
+Model Evaluation
+      ↓
+Deployment
 
 8. Deployment
 
